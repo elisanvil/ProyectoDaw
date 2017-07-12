@@ -1,0 +1,8 @@
+.form-group input {
+
+	
+}
+.form-group input[name="gender"]{
+	position: relative;
+	top: -34px;
+}
