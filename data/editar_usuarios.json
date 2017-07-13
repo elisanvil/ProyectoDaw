@@ -1,0 +1,42 @@
+[
+    { 
+		"name": 	"Narcisa",
+		"lastname": "Colcha",
+		"gender": 	"femenino",
+		"college": 	"espol",
+		"mail": 	"ncolcha@espol.edu.ec"
+   		"user": 	"ncolcha", 
+   		"password": "12345"
+   		"confirm:":	"12345"
+   	}, 
+    { 
+   		"name": 	"Arelys",
+		"lastname": "Vintimilla",
+		"gender": 	"femenino",
+		"college": 	"espol",
+		"mail": 	"aremvint@espol.edu.ec"
+   		"user": 	"aremvint", 
+   		"password": "67890"
+   		"confirm:":	"67890"
+   	}, 
+    { 
+   		"name": 	"Bryan",
+		"lastname": "Tumbaco",
+		"gender": 	"masculino",
+		"college": 	"espol",
+		"mail": 	"btumbaco@espol.edu.ec"
+   		"user": 	"btumbaco", 
+   		"password": "54321"
+   		"confirm:":	"54321"
+    },
+    {
+    	"name": 	"Elizabeth",
+		"lastname": "Sanchez",
+		"gender": 	"femenino",
+		"college": 	"espol",
+		"mail": 	"elimesan@espol.edu.ec"
+   		"user": 	"elimesan", 
+   		"password": "09876"
+   		"confirm:":	"09876"
+    }
+]
